@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539202644 source:c:\users\dell\desktop\assigone\main.cpp
+	<iostream>
+	<iomanip>
+	<bits/stdc++.h>
+
